@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, Welcome to my profile <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"></h1>
+<h1 align="center"> Hi, Welcome to my Github profile <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"></h1>
 
 <div align="center" style="color:blue">
 
@@ -17,10 +17,10 @@
     
 </div> -->
 
-<br>
+<!-- <br> -->
 
 <div align="center">
-    <h2>Github Profile Stats 📊</h2>
+    <h2>Github Stats 📊</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=jexa07&theme=oldie&no-bg=false&no-frame=true&column=4&margin-w=5" alt="jexa07 trophies">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jexa07&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true&langs_count=8&hide=shaderlab,hlsl" height="175px">
 <img src="https://github-readme-stats.vercel.app/api?username=jexa07&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&hide_border=true" height="175px">
@@ -28,9 +28,9 @@
 
 </div>
 
-<div align=center>
+<!-- <div align=center> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <div align="center">
 <details open>
