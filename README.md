@@ -60,10 +60,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Jexa07/Jexa07/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 _✨ Last updated: June 2025 ✨_
