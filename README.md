@@ -64,8 +64,6 @@
   <img src="https://github.com/Jexa07/Jexa07/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<!-- Snake animation GitHub Action required -->
-
 ---
 
 _✨ Last updated: June 2025 ✨_
