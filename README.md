@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Final%20Year%20B.Tech%20CSE%20(Hons)%20in%20Big%20Data%20Analysis;AI%20Enthusiast%20%7C%20AI%20Generalist%20%7C%20Future%20Data%20Scientist;&center=true&width=1000&height=45&color=58A6FF&pause=1000" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300px" alt="Girl coding GIF" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
