@@ -1,92 +1,71 @@
-<h1 align="center"> Hi, Welcome to my Github profile <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"></h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Arpita%20👩‍💻&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
 
-<div align="center" style="color:blue">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final%20Year%20B.Tech%20CSE%20(Hons)%20in%20Big%20Data%20Analysis;AI%20Enthusiast%20%7C%20Open-Source%20Lover%20%7C%20Future%20Data%20Scientist;&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000" />
+</p>
 
-<!-- <a href="https://github.com/jexa07">student</a> · 
-<a href="https://github.com/jexa07">game developer</a> ·
-<a href="https://github.com/jexa07"> blockchain developer</a>
+---
 
-<a href="https://jexa07.github.io" target="_blank">checkout portfolio</a> -->
+## 👩‍💻 About Me
 
+🎓 Final Year CSE (Hons.) in Big Data Analysis  
+🌍 Based in India | Building impactful ML projects  
+🧠 Obsessed with: Data Science • MLOps 
+🚀 Current Projects: `Smart Sprint Manager` | `House Price Prediction`  
+💬 Ask me about tech, data, and design
 
-<!-- <div align="center">
-    <h2>Some of my notable repos <img src="https://cdn.discordapp.com/emojis/763708605114482708.webp" width="30px"></h2>
-    <a href="https://github.com/Desonity/Desonity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desonity&repo=Desonity&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/jexa07/animedoro-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jexa07&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/jexa07/DiscordDatabase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jexa07&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    
-</div> -->
+---
 
-<!-- <br> -->
+## 🚀 Projects That Define Me
 
-<div align="center">
-    <h2>Github Stats 📊</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=jexa07&theme=oldie&no-bg=false&no-frame=true&column=4&margin-w=5" alt="jexa07 trophies" maxwidth="400px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jexa07&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true&langs_count=8&hide=shaderlab,hlsl" maxwidth="400px">
-<img src="https://github-readme-stats.vercel.app/api?username=jexa07&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&hide_border=true" maxwidth="400px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jexa07&show_icons=true&hide_border=true&theme=Javascript&background=f1f0f1" maxwidth="400px">
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔬 [Melanoma Detection CNN](https://github.com/Jexa07/Melanoma-Detection-System-using-Convolutional-Neural-Networks-Public) | Skin cancer prediction using CNN | Python, TensorFlow |
+| 📊 [AI Job Market Trends 2025](https://github.com/Jexa07/ai-job-market-trends-2025) | Forecasting AI career landscape | Python, NLP |
+| 🚢 [Titanic EDA](https://github.com/Jexa07/Titanic-Dataset---Exploratory-Data-Analysis-EDA-Public) | Deep dive into survival insights | Pandas, Seaborn |
+| 🏠 [House Price Predictor](https://github.com/Jexa07/House-Price-Prediction) | Advanced regression model for house prices | XGBoost, Sklearn |
+| 🤖 [Smart Sprint Manager](https://github.com/Jexa07/smart-sprint-manager) | Agentic AI for sprint planning | Python, LangChain |
 
-</div>
+---
 
-<!-- <div align=center> -->
+## 💻 Tech Stack
 
-<!-- <br> -->
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-<!-- <div align="center">
-<details open>
-<summary><h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
-<h4>Languages</h4>
-<img src="https://img.shields.io/badge/-cpp-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-python-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-java-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-c sharp-silver?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-HTML 5-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-css 3-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Javascript-grey?style=for-the-badge">
-<h4>Libraries and Frameworks</h4>
-<img src="https://img.shields.io/badge/-React-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-NextJS-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Svelte-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Flask-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-ExpressJS-silver?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Tailwind CSS-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Firebase Database-grey?style=for-the-badge" >
-<br>
-<img src="https://img.shields.io/badge/-Discord.py-silver?style=for-the-badge">
-<h4>Sofware and Tools</h4>
-<img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-(NEO)VIM-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-heroku-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Vercel-grey?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-unity_3D-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Godot_Engine-silver?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-Node JS-grey?style=for-the-badge">
-</details>
-</div>
+---
 
-<h3>Socials</h3>
+## 📈 GitHub Stats
 
-<a href="https://twitter.com/jexa07_" target="_blank">Twitter</a> ·
-<a href="https://linkedin.com/in/jexa07" target="_blank">LinkedIn</a> ·
-<a href="https://diamondapp.com/u/weeblet" target="_blank">DeSo</a> ·
-<a href="https://instagram.com/jexa07_" target="_blank">Instagram</a> ·
-<a href="https://reddit.com/u/TECHIE6023" target="_blank">Reddit</a> ·
-<a href="https://discord.com/app" target="_blank">Discord (weeblet#4745)</a> ·
-<a href="https://youtube.com/jexa07" target="_blank">YouTube</a> 
-    
-</div> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jexa07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jexa07&theme=radical" />
+</p>
 
-<div align="right">
-    
-![](https://komarev.com/ghpvc/?username=jexa07&style=for-the-badge&color=202020)
-    
-</div>
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arpita-pani)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://jexa07.github.io)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+<p align="center">
+  <img src="https://github.com/Jexa07/Jexa07/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<!-- Snake animation GitHub Action required -->
+
+---
+
+_✨ Last updated: June 2025 ✨_
