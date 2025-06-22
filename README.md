@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Final%20Year%20B.Tech%20CSE%20(Hons)%20in%20Big%20Data%20Analysis;AI%20Enthusiast%20%7C%20AI%20Generalist%20%7C%20Future%20Data%20Scientist;&center=true&width=1000&height=45&color=58A6FF&pause=1000" />
 </p>
 
-<!-- Girlie Coder Illustration -->
+<!-- Girlie Coder Illustration (Hosted) -->
 <p align="center">
-  <img src="https://github.com/Jexa07/Jexa07/assets/00000000/girlie-coder.gif" width="300px" alt="Girlie Coder at Work" />
+  <img src="https://github.com/Jexa07/Jexa07/assets/129108624/8bb37b1d-3ee3-4d2a-aeed-4f80190bcf64" width="300px" alt="Dusky Skin Coder Girl" />
 </p>
 
 ---
