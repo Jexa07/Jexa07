@@ -23,7 +23,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔬 [Melanoma Detection CNN](https://github.com/Jexa07/Melanoma-Detection-System-using-Convolutional-Neural-Networks-) | Skin cancer prediction using CNN | Python, TensorFlow |
+| 🔬 [Melanoma Detection Using CNN](https://github.com/Jexa07/Melanoma-Detection-System-using-Convolutional-Neural-Networks-) | Skin cancer prediction using CNN | Python, TensorFlow |
 | 📊 [AI Job Market Trends 2025](https://github.com/Jexa07/ai-job-market-trends-2025) | Forecasting AI career landscape | Python, NLP |
 | 🚢 [Titanic EDA](https://github.com/Jexa07/Titanic-Dataset---Exploratory-Data-Analysis-EDA-) | Deep dive into survival insights | Pandas, Seaborn |
 | 🏠 [House Price Predictor](https://github.com/Jexa07/House-Price-Prediction) | Advanced regression model for house prices | XGBoost, Sklearn |
